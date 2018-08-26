@@ -119,12 +119,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="algorithm.h" />
-    <ClInclude Include="AVLTree.h" />
-    <ClInclude Include="BinarySearchTree.h" />
     <ClInclude Include="catch.hpp" />
-    <ClInclude Include="Graph.h" />
-    <ClInclude Include="LinkedList.h" />
-    <ClInclude Include="RedBlackTree.h" />
+    <ClInclude Include="graph.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
