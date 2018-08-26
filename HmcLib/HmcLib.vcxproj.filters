@@ -30,9 +30,18 @@
     <ClInclude Include="RedBlackTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="algorithm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="catch.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="testcase.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
